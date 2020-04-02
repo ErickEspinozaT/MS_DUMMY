@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "cantonId": 11114,
+    "nombre": "Camioneta 1",
+    "tipo": "Camioneta",
+    "placa": "GSE-1234",
+    "imei": "99523589866685"
+  },
+  {
+    "id": 2,
+    "cantonId": 11115,
+    "nombre": "Camioneta 2",
+    "tipo": "Vehiculo",
+    "placa": "GSE-2345",
+    "imei": "14569470625266"
+  },
+  {
+    "id": 3,
+    "cantonId": 11111,
+    "nombre": "Camioneta 3",
+    "tipo": "Furgoneta",
+    "placa": "GSE-3446",
+    "imei": "17367712812032"
+  },
+  {
+    "id": 4,
+    "cantonId": 11117,
+    "nombre": "Camioneta 4",
+    "tipo": "Van",
+    "placa": "AAA-1234",
+    "imei": "35101510463133"
+  },
+  {
+    "id": 5,
+    "cantonId": 11119,
+    "nombre": "Camioneta 5",
+    "tipo": "Moto",
+    "placa": "BBB-2345",
+    "imei": "50604226224832"
+  },
+  {
+    "id": 6,
+    "cantonId": 11116,
+    "nombre": "Camioneta 6",
+    "tipo": "Avion",
+    "placa": "CCC-2345",
+    "imei": "11634498994421"
+  }
+]

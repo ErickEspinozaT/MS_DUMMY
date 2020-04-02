@@ -1,0 +1,116 @@
+{
+  "paises": [
+    {
+      "paisId": 1,
+      "nombre": "Ecuador",
+      "regiones": [
+        {
+          "regionId": 11,
+          "nombre": "Costa",
+          "provincias": [
+            {
+              "provinciaId": 111,
+              "nombre": "Guayas",
+              "cantones": [
+                {
+                  "cantonId": 1111,
+                  "nombre": "Guayaquil"
+                },
+                {
+                  "cantonId": 1112,
+                  "nombre": "Daule"
+                },
+                {
+                  "cantonId": 1113,
+                  "nombre": "Pedro Carbo"
+                },
+                {
+                  "cantonId": 1114,
+                  "nombre": "Lomas de Sargentillo"
+                }
+              ]
+            },
+            {
+              "provinciaId": 112,
+              "nombre": "Manabi",
+              "cantones": [
+                {
+                  "cantonId": 1121,
+                  "nombre": "Manta"
+                },
+                {
+                  "cantonId": 1122,
+                  "nombre": "Portoviejo"
+                },
+                {
+                  "cantonId": 1123,
+                  "nombre": "Junin"
+                },
+                {
+                  "cantonId": 1124,
+                  "nombre": "Sucre"
+                },
+                {
+                  "cantonId": 1125,
+                  "nombre": "Chone"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "regionId": 12,
+          "nombre": "Sierra",
+          "provincias": [
+            {
+              "provinciaId": 121,
+              "nombre": "PICHINCHA",
+              "cantones": [
+                {
+                  "cantonId": 1211,
+                  "canton": "QUITO"
+                },
+                {
+                  "cantonId": 1212,
+                  "canton": "Cayambe"
+                },
+                {
+                  "cantonId": 1213,
+                  "canton": "Mejia"
+                }
+              ]
+            },
+            {
+              "provinciaId": 122,
+              "nombre": "Cotopaxi",
+              "cantones": [
+                {
+                  "cantonId": 1221,
+                  "canton": "Latacunga"
+                },
+                {
+                  "cantonId": 1222,
+                  "canton": "La mana"
+                },
+                {
+                  "cantonId": 1223,
+                  "canton": "Pujili"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "regionId": 13,
+          "nombre": "Amazonia",
+          "provincias": []
+        },
+        {
+          "regionId": 14,
+          "nombre": "Insular",
+          "provincias": []
+        }
+      ]
+    }
+  ]
+}
